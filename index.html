@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Disease Diagnosis</title>
+	<style>
+		h1 {
+			color: #4e7d96;
+			font-family: "Times New Roman", serif;
+			font-size: 3em;
+			text-align: center;
+			margin-top: 50px;
+		}
+		h2 {
+			color: #4e7d96;
+			font-family: "Times New Roman", serif;
+			font-size: 2em;
+			text-align: center;
+			margin-top: 50px;
+		}
+		p, ul {
+			color: #444444;
+			font-family: "Times New Roman", serif;
+			font-size: 1.2em;
+			line-height: 1.5em;
+			margin: 0 auto;
+			width: 80%;
+		}
+		form {
+			margin: 0 auto;
+			width: 50%;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+		}
+		input[type="text"] {
+			padding: 10px;
+			margin-top: 20px;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			font-size: 1.2em;
+			font-family: "Times New Roman", serif;
+			color: #444444;
+			width: 80%;
+		}
+		input[type="submit"] {
+			padding: 10px;
+			margin-top: 20px;
+			border: none;
+			border-radius: 5px;
+			font-size: 1.2em;
+			font-family: "Times New Roman", serif;
+			color: #fff;
+			background-color: #4e7d96;
+			cursor: pointer;
+		}
+		input[type="submit"]:hover {
+			background-color: #2b4f62;
+		}
+		img {
+			display: block;
+			margin: 0 auto;
+			max-width: 80%;
+			height: auto;
+		}
+		li {
+			display: inline-block;
+			margin-right: 20px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Welcome to the Disease Diagnosis Tool</h1>
+	<p>Please enter a list of symptoms separated by commas and using keywords:</p>
+	<form action="/diagnosis" method="POST">
+		<input type="text" name="symptoms" placeholder="Enter your symptoms here...">
+		<input type="submit" value="Diagnose">
+	</form>
+	<img src="https://static.scientificamerican.com/blogs/cache/file/8775CDAF-4B8D-4B9C-8592D750C2F2EFA7_source.jpg?w=590&h=800&05368338-0053-42E4-9433CB5EDE2660EC" alt="Doctor wearing mask">
+	<h2>How to Write Symptoms:</h2>
+	<p><b>Please use keywords to describe your symptoms, such as:</b> 
+	Coughing, Sneezing, Fever, Headache, Stomachache, Pain, Swelling, Rash, Nausea, Dizziness, Sudden loss of muscle tone, Abdominal pain</p>
+</body>
+</html>

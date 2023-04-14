@@ -1,0 +1,200 @@
+disease,symptoms
+Chest pain,Discomfort in the front of the chest
+Diabetes mellitus ,Frequent urination Increased thirst Increased hunger
+Urinary tract infection ,"Pain with urination, frequent urination, feeling the need to urinate despite having an empty bladder"
+Pregnant,"Missed periods, tender breasts, nausea and vomiting, hunger, frequent urination"
+Asthma,"Recurring episodes of wheezing, coughing, chest tightness, shortness of breath"
+Cellulitis,"Red, hot, painful area of skin, fever"
+Abscess,"Redness, pain, swelling"
+Esophageal reflux ,"Taste of acid, heartburn, bad breath, chest pain, breathing problems"
+Bronchitis,"Coughing up mucus, wheezing, shortness of breath, chest discomfort"
+Pneumonia,"Cough, shortness of breath, chest pain, fever"
+Hay fever ,"Stuffy itchy nose, sneezing, red, itchy, and watery eyes, swelling around the eyes, itchy ears"
+Coronary artery disease ,"Chest pain, shortness of breath"
+Chronic obstructive pulmonary disease ,"Shortness of breath, chronic cough"
+Dizziness,"Feeling of things are spinning or moving when they are not, lightheadedness, giddiness, or unsteadiness"
+Sinus infection ,"Thick nasal mucus, plugged nose, pain in the face, fever, sore throat, frequent attacks of cough"
+Diarrhea,"Loose frequent bowel movements, dehydration"
+Gastroenteritis,"Diarrhea, vomiting, abdominal pain, fever"
+Vomiting,Nausea
+Hypothyroidism,"Poor ability to tolerate cold, feeling tired, constipation, weight gain, depression, anxiety, irritability"
+Congestive heart failure ,"Shortness of breath, exhaustion, swollen legs"
+Fever,"Initially: shivering, feeling cold, chillsLater: flushed, sweating"
+Osteoarthritis,"Joint pain, stiffness, joint swelling, decreased range of motion"
+Chest discomfort,Discomfort in the front of the chest
+Migraine,"Headaches, nausea, sensitivity to light, sound, and smell"
+Constipation,"Infrequent or hard to pass bowel movements, abdominal pain, bloating"
+Ankle sprain,"Swelling, bruising, pain"
+Conjunctivitis,"Reddish eye, scratchiness"
+Fainting ,Loss of consciousness and muscle strength
+Burn,First degree: Red without blistersSecond degree: Blisters and painThird degree: Area stiff and not painful Fourth degree: Bone and tendon loss
+Seizure disorder,"Periods of vigorous shaking, nearly undetectable spells"
+Strep throat ,"Fever, sore throat, enlarged lymph nodes"
+Dermatitis,"Itchiness, red skin, rash"
+Hepatitis C,Typically none
+Muscle strain,"Bruise, swelling, redness and soreness"
+Dental cavities,"Pain, tooth loss, difficulty eating"
+Acne,"Blackheads, whiteheads, pimples, oily skin, scarring"
+Swimmer's ear ,"Ear pain, swelling of the ear canal, decreased hearing, difficulty chewing"
+Head injury,Injury to the brain or skull
+Vertigo,"Feeling of spinning or swaying, vomiting, difficulty walking"
+Sciatica,"Pain going down the leg from the lower back, weakness or numbness of the affected leg"
+Kidney failure ,"Leg swelling, feeling tired, loss of appetite, confusion"
+Renal stone,"Severe pain in the lower back or abdomen, blood in the urine, vomiting, nausea"
+Vaginitis,"Itching, burning, pain, discharge, bad smell"
+Heavy menstrual bleeding ,bleeding more than usual
+Hemorrhoids,"Internal: Painless, bright red rectal bleedingExternal: Pain and swelling around the anus"
+Obesity,Increased fat
+AIDS,"Early: Flu-like illnessLater: Large lymph nodes, fever, weight loss"
+Carpal tunnel syndrome,"Numbness, tingling in the thumb, index, middle finger, and half of ring finger."
+Miscarriage,Vaginal bleeding with or without pain
+Insomnia,"Trouble sleeping, daytime sleepiness, low energy, irritability, depressed mood"
+Atopic dermatitis,"Itchy, red, swollen, cracked skin"
+Hives ,"Red, raised, itchy bumps"
+Stroke,"Inability to move or feel on one side of the body, problems understanding or speaking, dizziness, loss of vision to one side"
+Eczema,"Itchiness, red skin, rash"
+Onychomycosis,"White or yellow nail discoloration, thickening of the nail"
+Kidney infection ,"Fever, flank tenderness, nausea, burning with urination, frequent urination"
+Blood in urine ,Blood in the urine
+Fibromyalgia,"Widespread pain, feeling tired, sleep problems"
+Psychosis,"False beliefs, seeing or hearing things that others do not see or hear, incoherent speech"
+Tendonitis,"Pain, swelling"
+Gunshot wound ,"Pain, deformity, bleeding"
+Pelvic inflammatory disease ,"Lower abdominal pain, vaginal discharge, fever, burning with urination, pain with sex, irregular menstruation"
+Nosebleed ,Bleeding from the nose
+Epilepsy,"Periods of vigorous shaking, nearly undetectable spells"
+Plantar fasciitis,Pain in the heel and bottom of the foot
+Itching ,Compulsion to scratch an irritated area of skin
+Gastrointestinal bleeding,"Vomiting red blood, vomiting black blood, bloody stool, black stool, feeling tired"
+Scabies,"itchiness, pimple-like rash"
+Boil ,Painfulsmallrough skin growth
+Ankle fracture,"Pain, swelling, bruising, inability to walk"
+Gout,"Joint pain, swelling, and redness"
+Menstrual cramps ,"Pain during first few days of menstruation, diarrhea, nausea"
+Breast cancer,"A lump in a breast, a change in breast shape, dimpling of the skin, fluid from the nipple, a newly inverted nipple, a red scaly patch of skin on the breast"
+Shingles ,Painful rash
+Schizophrenia,"Hallucinations , delusions, confused thinking"
+Breast mass,An area of the breast that feel different than the surrounding tissue
+Costochondritis,Chest pain
+Sleep apnea,"Pauses breathing or periods of shallow breathing during sleep, snoring, tired during the day"
+Corneal abrasions,"Eye pain, light sensitivity"
+Dysfunctional uterine bleeding ,"Irregular, abnormally frequent, prolonged, or excessive amounts of uterine bleeding"
+Rheumatoid arthritis ,"Warm, swollen, painful joints"
+Athlete's foot ,"Itching, scaling, redness of the foot"
+Hematochezia,bright blood in stool
+Psoriasis,"Red , itchy, scaly patches of skin"
+Morbid obesity,Increased fat
+Finger fracture,"inflammation, tenderness, bruising, deformity, reduced ability to move the finger"
+Hyperthyroidism,"Irritability, muscle weakness, sleeping problems, fast heartbeat, heat intolerance, diarrhea, enlargement of the thyroid, weight loss"
+Ringworm ,"Red, itchy, scaly, circular skin rash"
+Deep vein thrombosis ,"Pain, swelling, redness, enlarged veins in the affected limb"
+Difficulty swallowing ,Inability or difficulty swallowing
+Hordeolum,Red tender bump at the edge of the eyelid
+Liver cirrhosis,"Tiredness, itchiness, swelling in the lower legs, jaundice, easily bruising, fluid build-up in the abdomen"
+Drug overdose,Depends on the drug and the amount used
+Lymph node enlargement ,"fever; Hard, fixed, rapidly growing nodes, indicating a possible cancer or lymphoma; night sweats; Runny nose; sore throat"
+Bronchiolitis,"Fever, cough, runny nose, wheezing, breathing problems"
+Peripheral vascular disease,"Leg pain when walking that resolves with rest, skin ulcers, bluish skin, cold skin"
+Epididymitis,"Pain in the back of the testicle, swelling of the testicle, burning with urination, frequent urination"
+Gallstones ,"None, crampy pain in the right upper abdomen"
+Diabetic ketoacidosis ,"Vomiting, abdominal pain, deep gasping breathing, increased urination, confusion, a specific smell"
+Appendicitis,"Periumbilical or right lower abdominal pain, vomiting, decreased appetite"
+Benign prostatic hypertrophy ,"Frequent urination, trouble starting to urinate, weak stream, inability to urinate, loss of bladder control"
+Hearing loss,Decreased ability to hear
+Dementia,"Decreased ability to think and remember, emotional problems, problems with language, decreased motivation"
+Knee sprain,"Pain, swelling, bruising, joint instability, limited range of motion of the injured joint"
+Cardiomyopathy,".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Shortness of breathFeeling tiredSwelling of the legs"
+Croup,"""Barky"" cough, stridor, fever, stuffy nose"
+Schizoaffective disorder,".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:"": ""}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"" · "";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:"" "";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:"" ""counter""\a0 ""}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:"" ""\a0 ""}Hallucinationsdelusionsdisorganized speech and behaviordepression mania"
+Genital herpes,"None, small blisters that break open to form painful ulcers, flu-like symptoms"
+Panic attack,"Periods of intense fear, palpitations, sweating, shaking, shortness of breath, numbness"
+Lung cancer,"Coughing , shortness of breath, chest pain"
+Hair loss ,Loss of hair from part of the head or body.
+Impetigo,"Yellowish skin crusts, painful"
+Hypotension,"Dizziness, clumsiness, giddiness, headaches, lightheadedness, fatigue, nausea, blurred vision, shakiness, breathlessness, increased thirst, irregular heartbeat, chest pain, fever, seizures"
+Bells palsy,"Inability to move the facial muscles on one side, change in taste, pain around the ear"
+Jaw fracture,"Decreased ability to open the mouth, teeth will not properly aligned, bleeding of the gums"
+Generalized anxiety disorder ,"Excessive worry, restlessness, trouble sleeping, feeling tired, irritability, sweating, trembling"
+Wrist fracture,"Pain, bruising, and swelling of the wrist"
+Concussion,"Headache; trouble with thinking, memory, or concentration; nausea; blurry vision; sleep disturbances; mood changes"
+Lipoma,"Soft, movable, usually painless lump"
+Pulmonary embolism,"Shortness of breath, chest pain, coughing up blood"
+Ethanol withdrawal,"Anxiety, shakiness, sweating, vomiting, fast heart rate, mild fever"
+Irritable bowel syndrome,"Diarrhea, constipation, abdominal pain"
+Humerus fracture,"Pain, swelling, bruising"
+Basal cell cancer,Painless raised area of skin that may be shiny with small blood vessel running over it or ulceration
+Osteoporosis,Increased risk of a broken bone
+Crohns disease,"Abdominal pain, diarrhea , fever, weight loss, fatigue, mouth sores, reduced appetite"
+Bone infection ,"Pain in a specific bone, overlying redness, fever, weakness"
+Alzheimer's disease,"Memory loss, problems with language, disorientation, mood swings"
+Indigestion ,Upper abdominal pain
+Wrist sprain,"Pain, swelling, bruising, joint instability, limited range of motion of the injured joint"
+Leg cramps,sudden muscle pain and a paralysis-like immobility
+Genital warts,"Small bumps in skin of genital area, varying sizes and shapes but typically protrude out, burning, itch"
+Colorectal cancer,"Blood in stool, change in bowel movements, unintentional weight loss, vomiting, fatigue"
+Coughing up blood,Coughing up blood or bloody sputum
+Toe fracture,"Pain, tenderness, bruising, swelling, displacement of the bones."
+Urine retention,"Sudden onset: Inability to urinate, low abdominal painLong term: Frequent urination, loss of bladder control, urinary tract infection"
+Sepsis,".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:"": ""}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"" · "";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:"" "";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:"" ""counter""\a0 ""}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:"" ""\a0 ""}Feverincreased heart ratelow blood pressureincreased breathing ratelow urine outputabsent or near absent urine outputsevere painconfusion"
+Bunion,"Prominent, red, and painful joint at the base of the big toe"
+Clavicle fracture,"Pain, decreased ability to move the affected arm"
+Hematemesis,Vomiting bright blood
+Jock itch ,"Itch, rash in groin"
+Bartholin's gland cyst,"Swelling of one side of the vagina, pain, sometimes no symptoms"
+Cystitis,"Pain with urination, frequent urination, feeling the need to urinate despite having an empty bladder"
+Nasal fracture,"Nose bleed, swelling, bruising"
+Multiple sclerosis ,"Variable, including almost any neurological symptom or sign, with autonomic, visual, motor, and sensory problems being the most common."
+Flu ,"Fever, runny nose, sore throat, muscle pain, headache, coughing, fatigue"
+Spinal stenosis,"Pain, numbness, or weakness in the arms or legs"
+Shoulder dislocation,Shoulder pain
+Penile discharge,Fluid from penis
+Gonorrhea,"None, burning with urination, vaginal discharge, discharge from the penis, pelvic pain, testicular pain"
+Ganglion cyst,Small soft lump associated with a joint
+Common cold,"Cough, sore throat, runny nose, fever"
+Restless legs,Unpleasant feeling in the legs that briefly improves with moving them
+Plantar wart ,"Skin colored lesion, may be painful"
+Systemic lupus erythematosus ,"Painful and swollen joints, fever, chest pain, hair loss, mouth ulcers, swollen lymph nodes, feeling tired, red rash"
+Small bowel obstruction,"Abdominal pain, vomiting, bloating, not passing gas"
+Rib fracture,Chest pain that is worse with breathing in
+Tennis elbow ,Painful and tender outer part of the elbow
+Pityriasis rosea,"Single red and slightly scaly area, followed"
+Sarcoidosis,"Depends on the organ involvedLungs: wheezing, cough, shortness of breath, chest painSkin: lumps, ulcers, discolored skinChildren: weight loss, bone pain, feeling tired"
+Erectile dysfunction ,Inability to gain or maintain an erection
+Pleurisy,Sharp chest pain
+Attention deficit hyperactivity disorder ,Inattentioncarelessnesshyperactivityexecutive dysfunctionimpulsivity
+Hepatitis,"Yellowish skin, poor appetite, abdominal pain"
+Rosacea,"Facial redness, swelling, and small and superficial dilated blood vessels"
+Eustachian tube dysfunction,"Aural fullness, ears popping, pressure, a feeling the ears are clogged, crackling, ear pain, tinnitus, autophony, muffled hearing"
+Angioedema,Area of swelling
+Ascites,"Increased abdominal size, increased weight, abdominal discomfort, shortness of breath"
+Muscle cramps,sudden muscle pain and a paralysis-like immobility
+Lichen simplex chronicus,"Thick leathery skin, exaggerated skin markings, small bumps, patches, scratch marks, scale"
+Varices,Internal bleeding
+Rotator cuff tear,"Shoulder pain, weakness"
+Canker sore,"A round, often painful sore inside the mouth that is white or gray with a red border; Tingling or burning sensation prior to sore development; Fever, sluggishness, and/or swollen lymph nodes"
+Hepatitis B,"None, yellowish skin, tiredness, dark urine, abdominal pain"
+Peptic ulcer,"Heartburn, upper abdominal pain, nausea, belching, vomiting, blood in the stool, weight loss, weight gain, bloating, loss of appetite yellowing of the skin and whites of the eyes difficulty swallowing"
+Heart murmur,Whooshing
+Tonsillar abscess,"Fever, throat pain, trouble opening the mouth, change to the voice"
+Laryngitis,"Hoarse voice, fever, pain"
+Orbital blowout fracture,"Double vision especially when looking up, numbness of the lateral nose skin, the cheek below the eyelid, and the upper lip, Bloody nose, lateral subconjunctival hemorrhage )"
+Ulnar neuropathy,Numbness
+Molluscum contagiosum,"Small, raised, pink lesions with a dimple in the center"
+Hip fracture,"Pain around the hip particularly with movement, shortening of the leg"
+Collapsed lung ,"Chest pain, shortness of breath, tiredness"
+Impotence,Inability to gain or maintain an erection
+Mastitis,"Localized breast pain and redness, fever"
+Gastroparesis,"Nausea, vomiting, abdominal pain, feeling full after eating just a few bites"
+Ataxia,Lack of coordination Slurred speech Trouble eating and swallowing Deterioration of fine motor skills Difficulty walking Gait abnormalities Eye movement abnormalities Tremors Heart problems
+Aortic stenosis,"Decreased ability to exercise, loss of consciousness, shortness of breath, heart related chest pain, leg swelling"
+Osteopenia,Usually asymptomatic
+Iritis,"Headaches, red eyes, blurred vision, photophobia, burning and redness of the eye"
+Prostate cancer,"None, difficulty urinating, blood in the urine, pain in the pelvis, back, or when urinating"
+Sexually transmitted disease ,"None, vaginal discharge, penile discharge, ulcers on or around the genitals, pelvic pain"
+Emphysema,"Shortness of breath, chronic cough"
+Endometriosis,"Pelvic pain, infertility"
+Chalazion,"Red, non painful cyst in middle of the eyelid"
+Heartburn,"Burning, stabbing, or squeezing sensation in the chest, nausea, belching"
+Parkinsons,"Tremor, rigidity, slowness of movement, difficulty walking"
+Nearsightedness ,"Distant objects appear blurry, close objects appear normal, headaches, eye strain"
+Scarlet fever,"Sore throat, fever, headaches, swollen lymph nodes in the neck, characteristic rash"

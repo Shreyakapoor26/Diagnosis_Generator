@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Diagnosis Results</title>
+	<style>
+		h1 {
+			color: #4e7d96;
+			font-family: Arial, sans-serif;
+			font-size: 3em;
+			text-align: center;
+			margin-top: 50px;
+		}
+		ul {
+			color: #444444;
+			font-family: Arial, sans-serif;
+			font-size: 1.2em;
+			line-height: 1.5em;
+			margin: 0 auto;
+			width: 80%;
+		}
+		li {
+			display: inline-block;
+			margin-right: 20px;
+		}
+		.probability {
+			font-weight: bold;
+		}
+		.data-source {
+			font-size: 0.8em;
+			color: #444444;
+			margin-top: 20px;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<h1>Possible Diagnoses:</h1>
+	<ul>
+	{% for disease in diseases %}
+		<li><a href="{{ disease[2] }}" target="_blank">{{ disease[0] }}</a> - <span class="probability">{{ disease[1] }}</span></li>
+	{% endfor %}
+	</ul>
+	<div class="data-source">Data source: Mayo Clinic and DBMI</div>
+</body>
+</html>

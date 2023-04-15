@@ -12,7 +12,7 @@ data = pd.read_csv('combined_data.csv')
 
 # Preprocess data by splitting Symptoms column and cleaning data
 data['symptoms'] = data['symptoms'].apply(lambda x: x.split(','))
-data['symptoms'] = data['symptoms'].apply(lambda x: [s.strip() for s in x])
+data['symptoms'] = data['symptoms'].apply(lambda x: [s.strip().lower() for s in x])
 
 # Encode target labels as integers
 le = LabelEncoder()
@@ -39,7 +39,7 @@ def diagnosis():
     user_symptoms = user_input.split(',')
 
     # Preprocess user input
-    user_symptoms = [s.strip() for s in user_symptoms]
+    user_symptoms = [s.strip().lower() for s in user_symptoms]
 
     # Vectorize user input
     user_input_vec = vectorizer.transform([' '.join(user_symptoms)])
@@ -53,18 +53,17 @@ def diagnosis():
     predicted_diseases = le.inverse_transform(top_n_indices)
 
     # Mayo Clinic URL for disease lookup
-    base_url = "https://www.mayoclinic.org/diseases-conditions/"
+    mayo_base_url = "https://www.mayoclinic.org/diseases-conditions/"
 
-    # Create list of tuples containing disease name, likelihood, and Mayo Clinic URL
+    # Create list of tuples containing disease name, likelihood, and Mayo Clinic and DBMI URL
     diseases_list = []
     for i, disease in enumerate(predicted_diseases):
-        mayo_link = base_url + disease.lower().replace(" ", "-")
-        disease_info = (disease, top_n_probabilities[i], mayo_link)
+        mayo_link = mayo_base_url + disease.lower().replace(" ", "-")
+        disease_info = (disease, round(top_n_probabilities[i], 3), mayo_link)
         diseases_list.append(disease_info)
 
     # Render diagnosis template with list of predicted diseases
-    return render_template('diagnosis.html', diseases=diseases_list)
+    return render_template('diagnosis.html', symptoms=user_symptoms, diseases=diseases_list)
 
 if __name__ == '__main__':
     app.run(debug=True, port=8080)
-

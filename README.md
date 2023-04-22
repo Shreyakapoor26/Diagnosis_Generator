@@ -23,8 +23,7 @@ Run these files in sequence:
 2. mayo_dis_sym.py
 3. NIH_ICD10_wiki.py 
 4. merge.py
-5. Create a folder name templates and store index.html and diagnosis.html in that folder
-6. run app.py
+5. app.py
 
 ## Data Sources
 The data used in the program was obtained from the following sources:
@@ -35,7 +34,7 @@ The data used in the program was obtained from the following sources:
 The data was accessed using the Python requests module and the BeautifulSoup library.
 The data file is in CSV format and contains information about various medical conditions and their corresponding symptoms. Each row represents a different medical condition, and the first column lists the name of the medical condition while the second column lists its associated symptoms, separated by a comma.
 
-## Data Structure
+## Data Structure and Procedure
 The program uses CountVectorizer to convert the input symptoms into vectors and the Multinomial Naive Bayes algorithm to classify the disease based on the input symptoms.
 
 ## Interaction and Presentation Options

@@ -1,6 +1,6 @@
 # Disease Diagnosis Generator
 
-## Demo Video: 
+## Demo Video: https://youtu.be/mAknPFTLWNc
 
 ## Requirements
 To run the program, the following Python packages are required:

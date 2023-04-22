@@ -24,6 +24,7 @@ Run these files in sequence:
 3. NIH_ICD10_wiki.py 
 4. merge.py
 5. app.py
+6. In your browser, paste http://127.0.0.1:8080
 
 ## Data Sources
 The data used in the program was obtained from the following sources:

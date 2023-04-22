@@ -4,11 +4,12 @@
 
 ## Requirements
 To run the program, the following Python packages are required:
-requests
-BeautifulSoup
-pandas
-numpy
-csv
+
+*requests
+*BeautifulSoup
+*pandas
+*numpy
+*csv
 re
 scikit-learn
 Flask

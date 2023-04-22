@@ -1,4 +1,6 @@
-# Demo Video: 
+# Disease Diagnosis Generator
+
+## Demo Video: 
 
 ## README
 This README file provides instructions on how to run the code, how to obtain any required API keys, and a brief description of the program's functionality. The required Python packages for the code to run are also listed.

@@ -10,9 +10,9 @@ To run the program, the following Python packages are required:
 * pandas
 * numpy
 * csv
-re
-scikit-learn
-Flask
+* re
+* scikit-learn
+* Flask
 
 ## SEQUENCE
 Run these files in sequence:
